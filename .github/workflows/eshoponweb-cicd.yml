@@ -9,7 +9,7 @@ env:
   LOCATION: Centralindia
   TEMPLATE-FILE: infra/webapp.bicep
   SUBSCRIPTION-ID: 088a3a94-7e0b-4997-849e-202cd2224b34
-  WEBAPP-NAME: eshoponweb-webapp-Harish
+  WEBAPP-NAME: eshoponweb-webapp-Harish22
 
 
 jobs:
